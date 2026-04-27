@@ -1,0 +1,3 @@
+/home/yuri/testes/raylib_project/colision-2d/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+/home/yuri/testes/raylib_project/colision-2d/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+/home/yuri/testes/raylib_project/colision-2d/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
